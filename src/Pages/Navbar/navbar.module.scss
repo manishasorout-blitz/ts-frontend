@@ -1,0 +1,17 @@
+.main_nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color:#76b1ec;
+    padding: 20px;
+    font-size: 25px;
+    margin-top: -10px;
+    font-weight: bolder;
+    color: black;
+}
+.right_div{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+
+}

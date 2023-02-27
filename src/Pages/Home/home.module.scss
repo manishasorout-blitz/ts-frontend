@@ -1,0 +1,96 @@
+.left_div {
+  border: 2px solid black;
+  width: 30%;
+}
+.left_div div {
+  margin-bottom: 20px;
+}
+.right_div {
+  box-shadow: 0 0 10px;
+  width: 50%;
+}
+.main_div {
+  display: flex;
+  justify-content: space-around;
+}
+table,
+th,
+td {
+  border: 3px solid rgb(144, 195, 195);
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  font-size: 20px;
+  border-collapse: collapse;
+}
+.child_div {
+  display: flex;
+  width: 80%;
+  margin: auto;
+
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.child_div div {
+  width: 180px;
+  margin: auto;
+  font-size: 35px;
+  font-weight: bolder;
+  gap: 5px;
+}
+
+.data_div {
+  display: flex;
+
+  font-size: 20px;
+  padding: 13px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 30px;
+  font-weight: 20px;
+
+  box-shadow: 0 0 7px;
+}
+.data_div div {
+  width: 300px;
+  padding: 20px;
+  font-size: 29px;
+}
+.date_picker {
+  display: flex;
+  width: 70%;
+  margin: auto;
+
+  padding: 20px;
+  gap: 30px;
+}
+.Input {
+  width: 300px;
+  height: 35px;
+}
+.button {
+  padding: 8px;
+  width: 60px;
+  margin-left: 20px;
+}
+.date_range_inp {
+  height: 40px;
+}
+.paginate {
+  display: flex;
+  width: 200px;
+  margin: auto;
+}
+.paginate Button {
+  width: 60px;
+}
+.Button {
+  padding: 15px;
+  width: 60%;
+  font-size: 20px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
